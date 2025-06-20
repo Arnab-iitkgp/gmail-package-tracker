@@ -1,0 +1,14 @@
+# Node
+node_modules/
+.env
+token.json
+credentials.json
+
+# React
+client/node_modules/
+client/.env
+client/build/
+
+# OS + Editor files
+.DS_Store
+*.log
